@@ -32,8 +32,7 @@ python setup.py build develop
 Please replace the data path with your local path 
 
 # Pretrain model
-[**checkpoint-baidu**](https://pan.baidu.com/s/16z7erijruMTJNYyr2IWwfw) 提取码:87st
-
+[**checkpoint-baidu**](https://pan.baidu.com/s/1YfUA1kkTdhf8G81fgvZ-2g?pwd=cost) 提取码:cost
 
 If you find StarVQA useful in your research, please use the following BibTeX entry for citation.
 ```
